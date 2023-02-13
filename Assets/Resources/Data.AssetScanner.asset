@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e18fc66b9f4773ba23ca2640c292cc, type: 3}
+  m_Name: Data.AssetScanner
+  m_EditorClassIdentifier: 
+  requirePrefabNamings: 1
+  requireTextureNamings: 0
+  prefabNamings:
+  - Shop
+  - Character
+  - Char
+  textureNamings:
+  - Shop
+  - Character
+  - Char
+  prefabsPaths:
+  - Assets/2_Prefabs/Char01.prefab
+  - Assets/2_Prefabs/Char02.prefab
+  texturesPaths:
+  - Assets/Demigiant/DOTween/Editor/Imgs/Footer.png
+  - Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png
+  - Assets/Resources/shop_model_thumbnail.png
+  - Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg
+  - Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png
+  - Assets/1_Graphics/Store/Zombie.png
+  - Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png
+  - Assets/1_Graphics/Store/Guy.png
