@@ -54,3 +54,8 @@ It checks for asset usage only for the prefabs, textures don't have any referenc
 It is customizable, so the user can change the naming conventions for the assets and also choose whether to look for naming conventions or not.
 
 ![Asset Scanner Configuration](Docs/Docs.AssetScanner2.png?raw=true "Asset Scanner Configuration")
+
+
+## Asset Optimization
+The AssetsPostProcessor is a tool that automatically optimizes audio, models, and textures when they are imported into the project.
+It is quite simple, but it can be easily extended to further optimize the current types or add other types of assets.
